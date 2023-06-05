@@ -7,17 +7,17 @@
 	"method1": {
 		"total": 20,
 		"records": [{
-				"name": "牛奶",
+				"name": "测试1",
 				"url": "测试详细内容1.......",
 				"icon": "https://qn14.tool.lu/2b383f6cd559d79ed736d8b174c057f8_200x200.png"
 			},
 			{
-				"name": "酸奶",
+				"name": "测试2",
 				"url": "测试详细内容2.......",
 				"icon": "https://qn11.tool.lu/f1290186a5d0b1ceab27f4e77c0c5d68_200x200.png"
 			},
 			{
-				"name": "低脂纯奶",
+				"name": "测试3",
 				"url": "测试详细内容3.......",
 				"icon": "https://qn14.tool.lu/4a8a08f09d37b73795649038408b5f33_200x200.png"
 			}
