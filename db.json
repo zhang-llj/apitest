@@ -60,37 +60,39 @@
 				"value": "4"
 			}
 		],
-	"method4":[
-	{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/b6783dddac62493eaa2d254e83e1829e.jpg",
-		"title": "史上最强收视冠军！《鱿鱼游戏》这么火，奈飞都没想到",
-		"source": "嘻哈娱乐",
-		"type": "1"
-	},
-	{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/490fb0ec74cc42b05776f1d591fbf9f7.jpg",
-		"title": "坚定不移走高质量发展之路，奋进新征程 建功新时代",
-		"source": "新华网",
-		"type": "2"
-	},
-	{
-		"img": "https://lowcode-5g5llxbq5bc9299e-1300677802.tcloudbaseapp.com/resources/2023-02/lowcode-1011381",
-		"title": "中国足协即将重罚多拉多，撞倒主裁性质恶劣，至少停赛6个月罚款10万",
-		"source": "北青体育",
-		"type": "3"
-	},
-	{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/5e9bcfce6bbbfe83b1218d34973fb3e0.jpg",
-		"title": "《利刃出鞘2》定档12月23日上线网飞",
-		"source": "新浪娱乐",
-		"type": "4"
-	},
-	{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/8b38f7025ee2d69ba0cb56ace08b5009.jpg",
-		"title": "《时空中的绘旅人》发公告 称姜广涛暂时无法参与配音工作",
-		"source": "新浪娱乐",
-		"type": "5"
+	"method4":{
+		"total": 20,
+		"records": [
+			{
+				"img": "https://qcloudimg.tencent-cloud.cn/raw/b6783dddac62493eaa2d254e83e1829e.jpg",
+				"title": "史上最强收视冠军！《鱿鱼游戏》这么火，奈飞都没想到",
+				"source": "嘻哈娱乐",
+				"type": "1"
+			},
+			{
+				"img": "https://qcloudimg.tencent-cloud.cn/raw/490fb0ec74cc42b05776f1d591fbf9f7.jpg",
+				"title": "坚定不移走高质量发展之路，奋进新征程 建功新时代",
+				"source": "新华网",
+				"type": "2"
+			},
+			{
+				"img": "https://lowcode-5g5llxbq5bc9299e-1300677802.tcloudbaseapp.com/resources/2023-02/lowcode-1011381",
+				"title": "中国足协即将重罚多拉多，撞倒主裁性质恶劣，至少停赛6个月罚款10万",
+				"source": "北青体育",
+				"type": "3"
+			},
+			{
+				"img": "https://qcloudimg.tencent-cloud.cn/raw/5e9bcfce6bbbfe83b1218d34973fb3e0.jpg",
+				"title": "《利刃出鞘2》定档12月23日上线网飞",
+				"source": "新浪娱乐",
+				"type": "4"
+			},
+			{
+				"img": "https://qcloudimg.tencent-cloud.cn/raw/8b38f7025ee2d69ba0cb56ace08b5009.jpg",
+				"title": "《时空中的绘旅人》发公告 称姜广涛暂时无法参与配音工作",
+				"source": "新浪娱乐",
+				"type": "5"
+			}
+		]
 	}
-]
-	
 }
