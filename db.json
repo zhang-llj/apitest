@@ -7,5 +7,22 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "method1": {
+    "total": 20,
+    "records": [
+        {
+            "name": "Google",
+            "url": "http://www.google.com"
+        },
+        {
+            "name": "Baidu",
+            "url": "http://www.baidu.com"
+        },
+        {
+            "name": "SoSo",
+            "url": "http://www.SoSo.com"
+        }
+    ]
   }
 }
