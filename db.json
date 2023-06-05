@@ -62,28 +62,11 @@
 				"value": "4"
 			}
 		],
-	"method4":[{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/13bfc048f9c49915771ba784a5687ea2.jpg",
-		"title": "易烊千玺：从流量小生蜕变实力派，勇敢挑战不同角色，他的成长之路不容易",
-		"source": "封面新闻",
-		"type": "1"
-	},
-	{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/e1074f05e28d51f6a1ccbb98ada7bff7.jpg",
-		"title": "《我和我的父辈》破4亿，沈腾成为首位200亿电影人，章子怡最新电影推出",
-		"source": "新浪新闻",
-		"type": "1"
-	},
+	"method4":[
 	{
 		"img": "https://qcloudimg.tencent-cloud.cn/raw/b6783dddac62493eaa2d254e83e1829e.jpg",
 		"title": "史上最强收视冠军！《鱿鱼游戏》这么火，奈飞都没想到",
 		"source": "嘻哈娱乐",
-		"type": "1"
-	},
-	{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/cd46f3dccf5a50bd10f5916e8e3d37a1.jpg",
-		"title": "缺芯？没问题！特斯拉三季度交付量再创历史新高，超过市场最高预期",
-		"source": "特斯拉",
 		"type": "1"
 	},
 	{
@@ -93,45 +76,9 @@
 		"type": "2"
 	},
 	{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/4fe96de244af1fa7b84f58065d7b939d.jpg",
-		"title": "焦点访谈：聚多方力架就业桥积极推进就业",
-		"source": "央视网",
-		"type": "2"
-	},
-	{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/a1bcaf842328610163f94c7fcbd17eab.jpg",
-		"title": "春天里的故事，他们是我们身边最美的人",
-		"source": "红网",
-		"type": "2"
-	},
-	{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/e5856b0bee2fa89d91b9160d9530e6d0.jpg",
-		"title": "辽宁：建设东北海路大通道，助力东北打造对外开放新格局",
-		"source": "东北新闻网",
-		"type": "2"
-	},
-	{
 		"img": "https://lowcode-5g5llxbq5bc9299e-1300677802.tcloudbaseapp.com/resources/2023-02/lowcode-1011381",
 		"title": "中国足协即将重罚多拉多，撞倒主裁性质恶劣，至少停赛6个月罚款10万",
 		"source": "北青体育",
-		"type": "3"
-	},
-	{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/753cf2d156d21c30bc27d3888312b071.jpg",
-		"title": "足协召开赛风赛纪和反兴奋剂工作会议！足协领导：从严处罚违纪现象",
-		"source": "头条新闻",
-		"type": "3"
-	},
-	{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/6c9ab61acf2a0f83be7223e660d0ccad.jpg",
-		"title": "英超双红会曼联在主场以2：1战胜利物浦，在积分榜上超越利物浦",
-		"source": "体坛周报",
-		"type": "3"
-	},
-	{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/72b6a58a45958271771b67cad13e1e78.jpg",
-		"source": "环球建筑",
-		"title": "北京新工体距离竣工交付仅剩百余天，一睹项目最新进展",
 		"type": "3"
 	},
 	{
@@ -141,22 +88,10 @@
 		"type": "4"
 	},
 	{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/989ffa1604784c107a4a7d348aecd70c.jpg",
-		"title": "方文山谈红顏如霜歌名由来 分享与周杰伦幽默对话",
-		"source": "娱乐新闻",
-		"type": "4"
-	},
-	{
-		"img": "https://qcloudimg.tencent-cloud.cn/raw/a0d4fdd7061568ccdc61ce38fb2e9653.jpg",
-		"title": "《明日战记》延长上映至10月4日 目前票房4.97亿",
-		"source": "新浪新闻",
-		"type": "4"
-	},
-	{
 		"img": "https://qcloudimg.tencent-cloud.cn/raw/8b38f7025ee2d69ba0cb56ace08b5009.jpg",
 		"title": "《时空中的绘旅人》发公告 称姜广涛暂时无法参与配音工作",
 		"source": "新浪娱乐",
-		"type": "4"
+		"type": "5"
 	}
 ]
 	
